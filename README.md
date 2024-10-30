@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently in btech a sophomore <br>i am a Ai and machine technology learning enthusiastic
+AI/ML Enthusiast | B.Tech Sophomore | Learning, Building, and Innovating
+
 
 
 ## 🌐 Socials:
