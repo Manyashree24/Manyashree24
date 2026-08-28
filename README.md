@@ -1,4 +1,4 @@
-Third-year CSE (AI & ML) student with strong interest in Python, Machine Learning, and Computer Vision. Experienced in academic and minor projects including LiDAR–GPR data interpretation, waste recognition using OpenCV, and AI-driven system design. Passionate about applying AI to real-world and research-oriented problems.
+ CSE (AI & ML) student with strong interest in Python, Machine Learning, and Computer Vision. Experienced in academic and minor projects including LiDAR–GPR data interpretation, waste recognition using OpenCV, and AI-driven system design. Passionate about applying AI to real-world and research-oriented problems.
 
 
 ## 🌐 Socials:
